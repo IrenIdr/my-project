@@ -1,0 +1,2 @@
+Hello, Git!
+File was created derectly on GitHub
